@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+* {
+    text-align: center;
+}
+img {
+    border: 10px solid #D4A373;
+    border-radius: 16px;
+    width: 80%;
+}
+h1 {
+    color: #D4A373;
+    font-size: 3rem;
+}
+p {
+    color: burlywood;
+    font-size: 24px;
+}
+.content{
+    font-family: "Roboto", sans-serif;
+}
